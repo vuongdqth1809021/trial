@@ -12,8 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebc5996e-cb6e-4393-97a1-3c1495f34c23" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c-programming" beforeDir="false" afterPath="$PROJECT_DIR$/c-programming" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c-programming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/c-programming/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c-programming/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/c-programming/cmake-build-debug/CMakeCache.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c-programming/cmake-build-debug/CMakeFiles/3.12.0/CMakeCCompiler.cmake" beforeDir="false" />
@@ -38,7 +37,6 @@
       <change beforePath="$PROJECT_DIR$/c-programming/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/c-programming/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c-programming/cmake-build-debug/c_programming.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/c-programming/cmake-build-debug/c_programming.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c-programming/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/c-programming/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -189,12 +187,12 @@
       <workItem from="1537786801548" duration="2323000" />
       <workItem from="1537789177147" duration="192000" />
       <workItem from="1537789388004" duration="2233000" />
-      <workItem from="1537792150201" duration="2567000" />
+      <workItem from="1537792150201" duration="2828000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11499000" />
+    <option name="totallyTimeSpent" value="11760000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="796" y="0" width="604" height="776" extended-state="0" />
