@@ -17,6 +17,7 @@ float thuong(int  a ,int b) {
         exit(1);
 }
     return (float) a / b;
+
 }
 int tich(int a ,int b) {
     return a * b;
