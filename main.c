@@ -145,41 +145,44 @@
 //}
 
 //        }}}
-                int tinhNuaChuViTG(int a, int b, int c) {
-                    return (a + b + c) / 2;
-                }
+int tinhNuaChuViTG(int a, int b, int c) {
+    return (a + b + c) / 2;
+}
 
-                int main() {
-                    int a, b, c;
+int main() {
+    int a, b, c;
 
-                    printf("Yeu cau nhap 3 canh cua tam giac");
-                    scanf("%d", &a);
-                    scanf("%d", &b);
-                    scanf("%d", &c);
-                    if (a < 0) {
-                        printf("do dai mot canh tam giac khong the nho hon 0\n");
-                        exit(0);
-                    }
-                    if (b < 0) {
-                        printf("Độ dài một cạnh tam giác không thể nhỏ hơn hoặc bằng 0\n");
-                        exit(0);
-                    }
-                    if (c < 0) {
-                        printf("Độ dài một cạnh tam giác không thể nhỏ hơn hoặc bằng 0\n”);
-                        exit(0);
-                    }
-                    if (a+b<c) {
-                        printf("Tổng hai cạnh của một tam giác luôn phải lớn hơn cạnh còn lại (Theo bất đẳng thức tam giác)\n");
-                        exit(0);
-                    }
-                    if (a+c<b){
-                        printf("Tổng hai cạnh của một tam giác luôn phải lớn hơn cạnh còn lại (Theo bất đẳng thức tam giác)\n");
-                        exit(0);
-                    }
-                    if (b+c<a){
-                        printf("Tổng hai cạnh của một tam giác luôn phải lớn hơn cạnh còn lại (Theo bất đẳng thức tam giác)\n");
-                        exit(0);
-                    }
-                    printf("Nua chu vi tam giac la %d",tinhNuaChuViTG(a,b,c));
-                    return 0;
-                }}
+    printf("Yeu cau nhap 3 canh cua tam giac \n");
+    printf("Do dai canh thu nhat la");
+    scanf("%d", &a);
+    printf("Do dai canh thu hai la");
+    scanf("%d", &b);
+    printf("Do dai canh thu ba la ");
+    scanf("%d", &c);
+    if (a <= 0) {
+        printf("do dai mot canh tam giac khong the nho hon hoac bang 0\n");
+        exit(0);
+    }
+    if (b <= 0) {
+        printf("do dai mot canh tam giac khong the nho hon hoac bang 0\n");
+        exit(0);
+    }
+    if (c <= 0) {
+        printf("do dai mot canh tam giac khon the nho hon hoac bang 0\n");
+        exit(0);
+    }
+    if (a + b < c) {
+        printf("Tong hai canh cua mot tam giac luon phai lon hon canh con lai (theo bat dang thuc tam giac)\n");
+        exit(0);
+    }
+    if (a + c < b) {
+        printf("Tong hai canh cua mot tam giac luon phai lon hon canh con lai (theo bat dang thuc tam giac)\n");
+        exit(0);
+    }
+    if (b + c < a) {
+        printf("Tong hai canh cua mot tam giac luon phai lon hon canh con lai (theo bat dang thuc tam giac)\n");
+        exit(0);
+    }
+    printf("Nua chu vi tam giac la %d", tinhNuaChuViTG(a, b, c));
+    return 0;
+}
