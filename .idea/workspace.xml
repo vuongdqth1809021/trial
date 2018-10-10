@@ -48,7 +48,9 @@
       <change afterPath="$PROJECT_DIR$/../untitled3/main.c" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled4/demo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/T1809E.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/T1809E.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/T1809E.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/T1809E.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/T1809E.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/T1809E.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/T1809E.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -77,8 +79,8 @@
     <session id="63405370">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="31" />
-          <entry key="project.open.time.0" value="11" />
+          <entry key="project.closed" value="32" />
+          <entry key="project.open.time.0" value="12" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
@@ -92,12 +94,12 @@
           <entry key="project.open.time.5" value="4" />
           <entry key="project.open.time.6" value="5" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="32" />
+          <entry key="project.opened" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="c" value="6793" />
+          <entry key="c" value="6799" />
           <entry key="cpp" value="16" />
           <entry key="ham tru" value="1" />
           <entry key="txt" value="1" />
@@ -106,7 +108,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CMakeLists.txt" value="1" />
-          <entry key="ObjectiveC" value="6809" />
+          <entry key="ObjectiveC" value="6815" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -151,8 +153,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="162" column="75" lean-forward="true" selection-start-line="162" selection-start-column="75" selection-end-line="162" selection-end-column="75" />
+            <state relative-caret-position="202">
+              <caret line="181" column="16" selection-start-line="181" selection-start-column="16" selection-end-line="181" selection-end-column="16" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -216,7 +218,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -250,6 +251,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -327,12 +329,13 @@
       <workItem from="1539173553515" duration="616000" />
       <workItem from="1539174382279" duration="168000" />
       <workItem from="1539176376168" duration="8000" />
-      <workItem from="1539177354767" duration="338000" />
+      <workItem from="1539177354767" duration="565000" />
+      <workItem from="1539179744387" duration="629000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64843000" />
+    <option name="totallyTimeSpent" value="65699000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -344,7 +347,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4986945" visible="true" weight="0.0046979864" />
@@ -352,13 +355,13 @@
       <window_info id="Favorites" order="2" sideWeight="0.50130546" side_tool="true" weight="0.16308725" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3243626" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3243626" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4028369" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="CMake" order="11" weight="0.32907802" />
@@ -425,8 +428,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="162" column="75" lean-forward="true" selection-start-line="162" selection-start-column="75" selection-end-line="162" selection-end-column="75" />
+        <state relative-caret-position="202">
+          <caret line="181" column="16" selection-start-line="181" selection-start-column="16" selection-end-line="181" selection-end-column="16" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>

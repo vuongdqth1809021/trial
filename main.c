@@ -171,15 +171,15 @@ int main() {
         printf("do dai mot canh tam giac khon the nho hon hoac bang 0\n");
         exit(0);
     }
-    if (a + b < c) {
+    if (a + b <= c) {
         printf("Tong hai canh cua mot tam giac luon phai lon hon canh con lai (theo bat dang thuc tam giac)\n");
         exit(0);
     }
-    if (a + c < b) {
+    if (a + c <= b) {
         printf("Tong hai canh cua mot tam giac luon phai lon hon canh con lai (theo bat dang thuc tam giac)\n");
         exit(0);
     }
-    if (b + c < a) {
+    if (b + c <= a) {
         printf("Tong hai canh cua mot tam giac luon phai lon hon canh con lai (theo bat dang thuc tam giac)\n");
         exit(0);
     }
