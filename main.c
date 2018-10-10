@@ -157,15 +157,15 @@
                     scanf("%d", &b);
                     scanf("%d", &c);
                     if (a < 0) {
-                        printf("Độ dài một cạnh tam giác không thể nhỏ hơn hoặc bằng 0\n”);
+                        printf("do dai mot canh tam giac khong the nho hon 0\n");
                         exit(0);
                     }
                     if (b < 0) {
-                        printf("Độ dài một cạnh tam giác không thể nhỏ hơn hoặc bằng 0\n")
+                        printf("Độ dài một cạnh tam giác không thể nhỏ hơn hoặc bằng 0\n");
                         exit(0);
                     }
                     if (c < 0) {
-                        printf()"Độ dài một cạnh tam giác không thể nhỏ hơn hoặc bằng 0\n”);
+                        printf("Độ dài một cạnh tam giác không thể nhỏ hơn hoặc bằng 0\n”);
                         exit(0);
                     }
                     if (a+b<c) {

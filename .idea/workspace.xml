@@ -12,6 +12,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebc5996e-cb6e-4393-97a1-3c1495f34c23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../++i và i++/.idea/++i và i++.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../++i và i++/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../++i và i++/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../++i và i++/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../++i và i++/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../++i và i++/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../++i và i++/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../++i và i++/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai tap 2/.idea/bai tap 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai tap 2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai tap 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai tap 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai tap 2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai tap 2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai tap 2/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai tap 2/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mảng ,malloc và con trỏ/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mảng ,malloc và con trỏ/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled1/.idea/codeStyles/Project.xml" afterDir="false" />
@@ -28,9 +46,6 @@
       <change afterPath="$PROJECT_DIR$/../untitled3/main.c" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled4/demo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/T1809E.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/T1809E.dir/main.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/T1809E.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/T1809E.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/T1809E.exe" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -59,8 +74,8 @@
     <session id="63405370">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="27" />
-          <entry key="project.open.time.0" value="6" />
+          <entry key="project.closed" value="29" />
+          <entry key="project.open.time.0" value="8" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
@@ -74,12 +89,12 @@
           <entry key="project.open.time.5" value="4" />
           <entry key="project.open.time.6" value="5" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="27" />
+          <entry key="project.opened" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="c" value="6376" />
+          <entry key="c" value="6432" />
           <entry key="cpp" value="16" />
           <entry key="ham tru" value="1" />
           <entry key="txt" value="1" />
@@ -88,7 +103,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CMakeLists.txt" value="1" />
-          <entry key="ObjectiveC" value="6392" />
+          <entry key="ObjectiveC" value="6448" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -133,8 +148,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-332">
-              <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            <state relative-caret-position="498">
+              <caret line="180" column="32" selection-start-line="180" selection-start-column="32" selection-end-line="180" selection-end-column="32" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -163,9 +178,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="456" />
-    <option name="y" value="16" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="455" />
+    <option name="y" value="15" />
     <option name="width" value="755" />
     <option name="height" value="940" />
   </component>
@@ -198,7 +213,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,6 +246,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -305,11 +320,13 @@
       <workItem from="1538647825796" duration="593000" />
       <workItem from="1538738263989" duration="18000" />
       <workItem from="1539171802041" duration="603000" />
+      <workItem from="1539172787568" duration="579000" />
+      <workItem from="1539173553515" duration="616000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63134000" />
+    <option name="totallyTimeSpent" value="64329000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -321,9 +338,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4986945" visible="true" weight="0.012751678" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4986945" visible="true" weight="0.0046979864" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50130546" side_tool="true" weight="0.16308725" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -334,11 +351,12 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.0" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="CMake" order="11" weight="0.32907802" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.29929078" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -400,8 +418,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-332">
-          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        <state relative-caret-position="498">
+          <caret line="180" column="32" selection-start-line="180" selection-start-column="32" selection-end-line="180" selection-end-column="32" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
